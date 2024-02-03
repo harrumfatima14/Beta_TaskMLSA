@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/fog.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Lost in the mystic embrace of the fog, where reality meets enchantment.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Post🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my MLSA certificate post",
+    url: "https://www.linkedin.com/posts/harrum-fatima-443b71292_alpha-mlsa-activity-7157079648172949504-RORB?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "LinkedIn",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Lets connect on LinkedIn : ",
+    url: "https://www.linkedin.com/in/harrum-fatima-443b71292",
   },
   {
-    title: "My Resume Site",
+    title: "AI certificate",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is the link of my Fundamental AI concepts badge",
+    url: "https://www.linkedin.com/posts/harrum-fatima-443b71292_fundamental-ai-concepts-activity-7156326281557557248-qxBH?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Github account",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Check out my github profile.",
+    url: "https://github.com/harrumfatima14",
   },
 ];
 
